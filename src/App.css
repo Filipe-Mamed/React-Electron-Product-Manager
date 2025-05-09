@@ -1,0 +1,95 @@
+/* Ocupa toda a altura da tela e define o fundo cinza */
+html,
+body,
+#root {
+  height: 100%;
+  background-color: #a9a9a9;
+  
+}
+
+/* --------------------- */
+/* Estilo do botão Home */
+/* --------------------- */
+.botao-produtos {
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.botao-produtos:hover {
+  transform: translateY(-2px); /* Levanta um pouco o botão */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Sombra mais forte */
+}
+
+/* ------------------------- */
+/* Linhas de tabela de produto */
+/* ------------------------- */
+
+/* Estilo base da linha */
+.produto-row td {
+  transition: background-color 0.3s ease;
+}
+
+/* Efeito hover na linha */
+.produto-row:hover td {
+  background-color: #c0c0c0;
+  cursor: pointer;
+}
+
+/* Estilo aplicado quando o produto está marcado para exclusão */
+.produto-marcado td {
+  background-color: #0000ff !important;
+  color: #ffffff !important;
+}
+
+/* ------------------ */
+/* Tooltip com interrogação */
+/* ------------------ */
+.questao {
+  cursor: pointer;
+}
+
+.questao:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+/* ---------------------- */
+/* Estilo do conteúdo do Modal Bootstrap */
+/* ---------------------- */
+.modal-alert {
+  background-color: rgb(60, 60, 60) !important;
+  color: #d3d3d3 !important;
+}
+
+/* ----------------------------- */
+/* Estilo do botão "close" do Modal */
+/* ----------------------------- */
+.button-close:hover {
+  color: #ffffff !important;
+}
+
+/* ----------------------------- */
+/* Estilo Dropdown */
+/* ----------------------------- */
+/* Efeito de hover no ícone */
+.dropdown-menu {
+  background-color: rgb(60, 60, 60) !important;
+}
+
+.dropdown-item {
+  color: #d3d3d3 !important;
+}
+
+.dropdown-item:hover {
+  background-color: #6495ed !important;
+  color: #ffffff !important;
+}
+
+.custom-dropdown-icon:hover {
+  background-color: #696969;
+  cursor: pointer;
+}
+
+.teste{
+  text-align: center;
+}
