@@ -33,7 +33,7 @@ Aplicativo desktop de gerenciamento de produtos desenvolvido com **React** e **E
 - Interface simples e responsiva
 - Limpeza automática dos campos após operações
 
-## 📦 Instalação e Execução
+- ## 📦 Instalação e Execução
 
 ```bash
 # Clone o repositório
@@ -53,3 +53,11 @@ npm run electron
 
 # Para gerar o executável
 npm run build
+```
+
+
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
