@@ -28,11 +28,18 @@ Aplicativo desktop de gerenciamento de produtos desenvolvido com **React** e **E
 
 - Cadastro de produtos (nome, preço, unidade, tipo)
 - Edição de produtos
-- Exclusão com confirmação via modal
+- Limpeza automática de campos e seleção após ações
 - Listagem dinâmica com tabela interativa
 - Interface simples e responsiva
 - Limpeza automática dos campos após operações
+- **Banco de dados local com SQLite — o arquivo "hortifruti" será gerado automaticamente no diretório Downloads, servindo como base de dados do aplicativo.**
 
+
+
+## 📥 Download
+
+Baixe a versão mais recente do aplicativo na seção [Releases](https://github.com/Filipe-Mamed/React-Electron-Product-Manager/releases).
+<hr/>
 - ## 📦 Instalação e Execução
 
 ```bash
