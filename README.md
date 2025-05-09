@@ -62,7 +62,11 @@ npm run electron
 npm run build
 ```
 
+### 🎨 Créditos do Ícone
 
+Ícone utilizado no aplicativo:
+
+["Tome nota" ícone criado por nangicon - Flaticon](https://www.flaticon.com/br/icones-gratis/tome-nota)
 
 
 ## Licença
