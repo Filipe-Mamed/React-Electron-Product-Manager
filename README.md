@@ -6,17 +6,23 @@ Aplicativo desktop de gerenciamento de produtos desenvolvido com **React** e **E
 
 ## 🛠 Tecnologias Utilizadas
 
-- [React](https://reactjs.org/)
-- [Electron](https://www.electronjs.org/)
-- [Bootstrap 5](https://getbootstrap.com/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+- <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
+- <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+- <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+- <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 
 ## 📸 Imagens
 
-<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20tela%202025-05-09%20163615.png?raw=true" />
-<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20Tela%20(30).png?raw=true"/>
-<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20Tela%20(31).png?raw=true"/>
-<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20Tela%20(32).png?raw=true" />
+<div align="center"><img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20tela%202025-05-09%20163615.png?raw=true" alt="img-logo" /></div>
+<br/>
+<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20Tela%20(30).png?raw=true" alt="imagem-1"/>
+<br/>
+<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20Tela%20(31).png?raw=true" alt="imagem-2"/>
+<br/>
+<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Captura%20de%20Tela%20(32).png?raw=true" alt="imagem-3" />
+<hr/>
+<img src="https://github.com/Filipe-Mamed/React-Electron-Product-Manager/blob/main/imgs/Hortifruti-manager.gif?raw=true" alt="gif" />
 
 ## 🚀 Funcionalidades
 
