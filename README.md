@@ -40,7 +40,7 @@ Aplicativo desktop de gerenciamento de produtos desenvolvido com **React** e **E
 
 Baixe a versão mais recente do aplicativo na seção [Releases](https://github.com/Filipe-Mamed/React-Electron-Product-Manager/releases).
 <hr/>
-- ## 📦 Instalação e Execução
+ ## 📦 Instalação e Execução
 
 ```bash
 # Clone o repositório
